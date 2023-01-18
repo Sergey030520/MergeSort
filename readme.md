@@ -1,4 +1,4 @@
-#MergeSort
+# MergeSort
 Данный проект был собран и протестирован с помощью JDK [java-11-amazon corretto-11.0.18](https://docs.aws.amazon.com/corretto/latest/corretto-11-ug/downloads-list.html).
 ## Инструкция по установке зависимостей
 Для установки библиотеки jetbrains с помощью [Maven 4.0.0](https://maven.apache.org/docs/4.0.0-alpha-2/release-notes.html), 
